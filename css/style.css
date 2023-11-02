@@ -1,0 +1,35 @@
+* {
+    font-family: 'Ubuntu';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../img/05A1_atual.webp');
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+.bloco {
+    background-color: rgba(122, 121, 121, 0.459);
+    width: 60%;
+    margin: 90px auto;
+    border-radius: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+form {
+    width: 40%;
+    margin: auto;
+    padding: 1rem;
+}
+
+button {
+    width: 40%;
+}
